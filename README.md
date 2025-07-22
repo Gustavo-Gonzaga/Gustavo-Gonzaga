@@ -72,6 +72,15 @@ Meu nome é Gustavo Gonzaga e sou um desenvolvedor em início de carreira, busca
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+
 <br/>
 <br/>
 
@@ -90,7 +99,7 @@ Meu nome é Gustavo Gonzaga e sou um desenvolvedor em início de carreira, busca
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Gonzaga&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=6" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Gonzaga&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>

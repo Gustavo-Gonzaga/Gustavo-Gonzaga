@@ -80,7 +80,7 @@ Meu nome é Gustavo Gonzaga e sou um desenvolvedor em início de carreira, busca
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
-
+<!--
 <br/>
 <br/>
 
@@ -103,3 +103,4 @@ Meu nome é Gustavo Gonzaga e sou um desenvolvedor em início de carreira, busca
   />
 
 </p>
+-->
